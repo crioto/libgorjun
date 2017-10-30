@@ -1,2 +1,2 @@
 # libgorjun
-Gorjun library writte in Go
+Gorjun library written in Go
